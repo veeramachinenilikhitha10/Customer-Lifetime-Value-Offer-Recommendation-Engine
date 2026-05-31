@@ -1,0 +1,6 @@
+{
+  "name": "Customer Lifetime Value & Offer Recommendation Engine",
+  "description": "A high-fidelity enterprise customer intelligence platform that predicts customer lifetime value (CLV), runs A/B experiments, calculates conversion ROI, and uses generative AI to tailor offer copywriting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
